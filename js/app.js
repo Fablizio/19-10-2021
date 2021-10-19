@@ -1,7 +1,7 @@
 let animal = prompt("Animale preferito: \n 1. Dog\n 2. Cat\n 3. Goldfish\n 4. Monkey\n 5. Panda");
 
 
-/*sistema switch*/
+//sistema switch
 
 /*switch (animal){
     case "1":
@@ -25,7 +25,7 @@ let animal = prompt("Animale preferito: \n 1. Dog\n 2. Cat\n 3. Goldfish\n 4. Mo
 
 console.log (animal); */
 
-/*sistema if*/
+//sistema if
 
 /*
 if (animal == 1) {
@@ -48,7 +48,7 @@ else  {
 }
 */
 
-/*sistema ternario*/
+//sistema ternario
 
     animalFound = animal == 1
     ? "Chose the Dog"
